@@ -8,10 +8,22 @@ import { provideAnimationsAsync } from '@angular/platform-browser/animations/asy
 import {MaterialModule} from './modules/material-ui.module';
 import {ReactiveFormsModule} from '@angular/forms';
 import {FormsModule} from '@angular/forms';
+import { HeaderComponent } from './header/header.component';
+import { FooterComponent } from './footer/footer.component';
+import { MenuComponent } from './menu/menu.component';
+import { ProjectComponent } from './project/project.component';
+import { ResumeComponent } from './resume/resume.component';
+import { HomeComponent } from './home/home.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    HeaderComponent,
+    FooterComponent,
+    MenuComponent,
+    ProjectComponent,
+    ResumeComponent,
+    HomeComponent
   ],
   imports: [
     BrowserModule,
