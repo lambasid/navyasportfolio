@@ -1,0 +1,78 @@
+{
+    "name": "Navya Vohra",
+    "location": "Ontario, Canada",
+    "contact": {
+      "phone": "437-974-4974",
+      "email": "navyavohra19@gmail.com",
+      "social_media": {
+        "GitHub": "https://www.linkedin.com/in/navyavohra/",
+        "LinkedIn": "https://github.com/navyavohra"
+      }
+    },
+    "objective": [
+      "Honors Bachelor's graduate in Computer Science with strong problem-solving and quick learning skills.",
+      "Results-oriented Developer, proven ability to design, develop, and test user-centric applications across mobile (iOS, Android) and web platforms.",
+      "Skilled in various programming languages (Swift, Kotlin, HTML, CSS, JavaScript) to deliver high-quality solutions."
+    ],
+    "work_experience": [
+      {
+        "company": "Apple Canada & CEC",
+        "position": "iOS Application Developer Mentor Part-Time",
+        "duration": "February 2023 – Present",
+        "responsibilities": [
+          "Provided Consulting services to enhance the effectiveness of a Swift development program for high school students, resulting in a 25% increase in applications from students interested in joining the program.",
+          "Guided students through the entire iOS app development process, offering expert advice and support, resulting in a 90% success rate in presenting completed apps."
+        ]
+      },
+      {
+        "company": "TD Bank - Toronto",
+        "position": "Mobile Application Developer Intern",
+        "duration": "May 2023 – August 2023",
+        "responsibilities": [
+          "Developed user-friendly app updates for the TD Mobile App Android and iOS using Kotlin and Swift, driving improved user satisfaction and enhanced usability.",
+          "Led rigorous testing initiatives (accessibility focus) to boost app interactivity by 71%, ensuring a seamless user experience.",
+          "Implemented Agile methodologies for on-time delivery and maintained superior app quality through meticulous debugging."
+        ]
+      },
+      {
+        "company": "BMO - Toronto",
+        "position": "Quality Assurance Analyst Intern",
+        "duration": "January 2023 – May 2023",
+        "responsibilities": [
+          "Reduced post-release bugs by 20% through comprehensive testing (UI/Unit/Performance etc.) leveraging Selenium.",
+          "Optimized testing efficiency by 50% by implementing a mix of manual and automated testing, achieving increased coverage.",
+          "Ensured clear communication by effectively translating complex technical issues for both technical and non-technical stakeholders."
+        ]
+      },
+      {
+        "company": "Klick Health - Toronto",
+        "position": "Web Developer Intern",
+        "duration": "May 2022 – August 2022",
+        "responsibilities": [
+          "Leveraged AEM (Adobe Experience Manager) to develop interactive front-end components using HTML, JS, CSS and JavaScript for pharma clients and a non-profit, boosting engagement by 40%.",
+          "Contributed to a website for a non-profit (EAT REAL), projected to increase fundraising to $16M in the next five years."
+        ]
+      }
+    ],
+    "skills": {
+      "programming_languages": ["Android (Kotlin)", "iOS (Swift)", "C", "C++", "C#", "F#", "Python", "BASH"],
+      "web_technologies": ["HTML", "CSS", "JavaScript", "REST API design", "SOAP"],
+      "frameworks": ["Mobile React Native", "Jetpack Compose", "Web Angular", "React"],
+      "databases": ["MySQL", "MS Access", "Oracle"],
+      "version_control": ["Bitbucket", "GitHub"],
+      "project_management_design_tools": ["JIRA", "Figma", "AEM", "Confluence", "SourceTree", "Visual Paradigm", "Selenium", "Jenkins"],
+      "soft_skills": ["Communication", "Leadership", "Collaboration", "Problem-Solving", "Time Management"]
+    },
+    "education": {
+      "degree": "Honours Bachelor of Computer Science",
+      "institution": "Sheridan College, Oakville",
+      "duration": "January 2020 - December 2023"
+    },
+    "awards_and_achievements": [
+      "Participated in Hackathon (2022, 2023) and Leadership Conference (2020 - 2024)",
+      "Member of Google Developer Group and Women Tech Makers.",
+      "Member of Mobile Computing Club at Sheridan College.",
+      "Participated in Women in Tech Organization at BMO."
+    ]
+  }
+  
