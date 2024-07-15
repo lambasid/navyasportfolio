@@ -87,8 +87,14 @@
               "zone.js/testing"
             ],
             "tsConfig": "tsconfig.spec.json",
-   
-,
-"cli": {
-  "analytics": "a3251658-3f04-4c02-bc0f-ba24acc16e79"
-}
+            "cli": {
+              "analytics": "a3251658-3f04-4c02-bc0f-ba24acc16e79"
+            }
+          }
+        }
+      }
+    }
+  },
+  "cli": {
+    "analytics": "453e3cbe-ca24-41c1-bda2-586b08015af4"
+  },
